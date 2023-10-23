@@ -1,0 +1,24 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+    }
+    h2{
+        margin-left: 30px;
+    }
+    p{
+    text-indent: 2em; /* 设置段落开头空两个字符的缩进 */
+    width: 30em; /* 设置每行的最大宽度为30个字符 */
+    white-space: pre-wrap; /* 允许段落内的换行符生效 */
+    word-break: break-all; /* 允许单词内的换行 */
+    }
+    /*.input {
+  width: 200px;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+    }*/
